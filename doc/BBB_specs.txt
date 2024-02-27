@@ -1,0 +1,35 @@
+The Beaglebone Black Microcontroller specifications are as follows
+
+	➤The processor type – Sitara AM3358BZCZ100 with 1 GHz and 2000 MIPS
+	➤Graphics Engine- 20M Polygons/S, SGX530 3D
+	➤Size of SDRAM memory – 512 MB DDR3L, 800 MHz
+	➤Onboard Flash- 8-bit Embedded MMC with 4 GB
+	➤PMIC – 1 additional LDO, TPS65217C PMIC regulator
+	➤Debug Support – Serial Header, onboard optional 20-pin CTI
+	➤Power Source – mini USB, USB or DC jack; 5 Volts external DC through expansion header
+	➤PCB – 3.4″ X 2.1″; 6 layers
+	➤Type of indicators – 1 power, 2 Ethernet, 4 LEDs, which are user-controllable
+	➤HS USB 2.0 Host Port – Accessible to USB1, Type A Socket, 500 mA LS/FS/HS
+	➤Serial Port – UART0 access via 6-pin 3.3 Volts TTL header. Populated header
+	➤Ethernet – 10/100, RJ45
+	➤User Input – Power button, Reset button, Boot button
+	➤SD/MMC Connector – microSD, 3.3 Volts
+	➤Video out – 16b HDMI, 1280×1024 (max), 1025×768, 1280×720, 1440×900, w/EDID support
+	➤HS USB 2.0 Client Port – Access to USB0, client mode through miniUSB
+	➤Audio – Stereo, via HDMI interface
+	➤Weight – 39.68 gms (1.4 oz)
+	➤Expansion Connectors – 5 Volts, 3.3 Volts power, VDD_ADC 1.8 Volts.
+	
+3.3 Volts on all I/O signals – GPIO (69 max), McASP0, I2C, SPI1, LCD, GPMC, MMC1, MMC2, 4 serial ports, 4 timers, 7 AIN (max 1.8 Volts), CAN0, XDMA interrupt, EHRPWM (0, 2), Power button, expansion board ID (stacking of up to 4)
+	
+Where to Use / Applications of Beaglebone Microcontroller
+Let’s know where to use/ applications of beaglebone black microcontroller.
+
+	➤Motor controllers
+	➤Robotics
+	➤It can work as a server in various IoT projects
+	➤Monitoring and controlling units with the help of display cape
+	➤AWS
+	➤In several projects which are related to Bluetooth connectivity.
+	➤Used by the developers in small network projects for designing and testing
+	➤Used as a signal control unit in several industrial systems.
